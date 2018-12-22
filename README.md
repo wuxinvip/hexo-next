@@ -6,7 +6,7 @@
 * add 网易云音乐
 * add gitlab评论
 * add deploy脚本
-
+* add android 下载二维码图片
 
 
 #### 项目介绍
