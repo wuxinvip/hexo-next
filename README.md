@@ -5,7 +5,7 @@
 * 修改朋友圈分享分享为app分享
 * add 网易云音乐
 * add gitlab评论
-
+* add deploy脚本
 
 
 #### 项目介绍
