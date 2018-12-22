@@ -7,7 +7,7 @@
 * add gitlab评论
 * add deploy脚本
 * add android 下载二维码图片
-
+* add google adsense 广告联盟
 
 #### 项目介绍
 {**以下是码云平台说明，您可以替换为您的项目简介**
